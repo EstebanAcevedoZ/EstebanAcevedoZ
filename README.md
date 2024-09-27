@@ -40,9 +40,9 @@ I'm Esteban Acevedo, a Physics Engineer and programming enthusiast. Combining my
     ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E51050?logo=autocad)
     ![DIALux evo](https://img.shields.io/badge/DIALux%20evo-%23000000)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420)
-</p>
+<!--</p>-->
 
 <!--  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>-->
 
 <!--<div align="center">-->
-</div>
+<!--</div>-->
