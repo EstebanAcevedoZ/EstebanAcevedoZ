@@ -5,15 +5,12 @@
 
 I'm Esteban Acevedo, a Physics Engineer and programming enthusiast. Combining my expertise in physics with my love for coding, I create efficient solutions in fields like data science, automation, and software development. Always eager to learn, I explore new tools and techniques to push the boundaries of innovation. 
 
-<picture> <img align="right" src="" width = 250px></picture>
-
 <!--  - Personal website [link](https://www.asd.com)-->
 <!--  - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)-->
 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lnbzZjZ3ltZHlmNTQxanVhanBpaWVrdmxpOWE5MGNmZ3A2MHQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.gif" width =200px></picture>
 <p align="center">
 
 - **Programming and Markup Languages**:
@@ -40,9 +37,9 @@ I'm Esteban Acevedo, a Physics Engineer and programming enthusiast. Combining my
     ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23E51050?logo=autocad)
     ![DIALux evo](https://img.shields.io/badge/DIALux%20evo-%23000000)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420)
-<!--</p>-->
+    ![Excel](https://img.shields.io/badge/Excel-%23007C3C?logo=libreofficecalc)
+    ![Mathematica](https://img.shields.io/badge/Mathematica-%23DD1100?logo=wolframmathematica)
+    
+</p>
 
-<!--  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>-->
-
-<!--<div align="center">-->
-<!--</div>-->
+</div>
