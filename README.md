@@ -10,14 +10,8 @@ I'm Esteban Acevedo, a Physics Engineer and programming enthusiast. Combining my
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<<<<<<< HEAD
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lnbzZjZ3ltZHlmNTQxanVhanBpaWVrdmxpOWE5MGNmZ3A2MHQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.gif" width =200px></picture>
-<p align="right">
-=======
-<picture> <img align="right" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lnbzZjZ3ltZHlmNTQxanVhanBpaWVrdmxpOWE5MGNmZ3A2MHQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGptejhxeWdtY3I2emJobWNxYzBpOG83dHg1MnhwY2JzdXl1eTNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/49WdBE1RTRWu6QJJbx/giphy.gif)" width =200px>
-
-</picture><p align="center">
->>>>>>> 9fd6938bc174120a8c953db04ff4010d6d0d9863
+<p align="center">
 
 - **Programming and Markup Languages**:
     
@@ -48,8 +42,4 @@ I'm Esteban Acevedo, a Physics Engineer and programming enthusiast. Combining my
     
 </p>
 
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> 9fd6938bc174120a8c953db04ff4010d6d0d9863
