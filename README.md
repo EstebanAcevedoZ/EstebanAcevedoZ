@@ -11,7 +11,7 @@ I'm Esteban Acevedo, a Physics Engineer and programming enthusiast. Combining my
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lnbzZjZ3ltZHlmNTQxanVhanBpaWVrdmxpOWE5MGNmZ3A2MHQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.gif" width =200px></picture>
-<p align="center">
+<p align="right">
 
 - **Programming and Markup Languages**:
     
