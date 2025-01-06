@@ -19,8 +19,11 @@ I'm Esteban Acevedo, a Physics Engineer and programming enthusiast. Combining my
     ![PHP](https://img.shields.io/badge/php-%23777BB4)
     ![C#](https://img.shields.io/badge/C%23-%23452170)
     ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus)
+    ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+    ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
     ![LaTex](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white)
-    ![Marcdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 
 - **Libraries and Frameworks**:
 
